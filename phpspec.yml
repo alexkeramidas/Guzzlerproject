@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: GazGuzzler
+        psr4_prefix: GazGuzzler
+        src_path: app
